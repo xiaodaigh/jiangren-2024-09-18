@@ -1,0 +1,1 @@
+shiny create --template dashboard-tips
